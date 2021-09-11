@@ -23,7 +23,6 @@ z-index: 0;
 
 .jumbotron {
     padding: 70px 30px 70px 30px;
-    margin: 0px auto;
     background: #886bb6!important;
     color: floralwhite;
 }
@@ -36,4 +35,11 @@ z-index: 0;
 
 .navbar-dark {
     background-color: #512DA8;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
